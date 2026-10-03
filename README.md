@@ -1,6 +1,6 @@
 **Developer Details:**
 - **Name:** Shivani
-- **CU Id:** CU26220244 *
+- **CU Id:** CU26220244 
 - **Course:** B.Tech AI/ML
 - **Section:** Sec-C
 # Fake-News-Detection-System.
