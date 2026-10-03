@@ -1,3 +1,8 @@
+**Developer Details:**
+- **Name:** Shivani
+- **CU Id:** CU26220244 *(yahan apni ID likhein)*
+- **Course:** B.Tech AI/ML
+- **Section:** Sec-C
 # Fake-News-Detection-System.
 Machine Learning model to classify news articles as Real or Fake using Natural Language Processing (NLP).
 # Fake News Detection System
