@@ -7,7 +7,7 @@
 Machine Learning model to classify news articles as Real or Fake using Natural Language Processing (NLP).
 # Fake News Detection System
 
-A Machine Learning project built using Python and Natural Language Processing (NLP) technique (TF-IDF) to detect and classify news content as **Real** or **Fake**.
+A deep Learning project built using Python and Natural Language Processing (NLP) technique (TF-IDF) to detect and classify news content as **Real** or **Fake**.
 
 ## 📌 Features
 - Text Preprocessing using NLP
