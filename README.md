@@ -4,7 +4,7 @@
 - **Course:** B.Tech AI/ML
 - **Section:** Sec-C
 # Fake-News-Detection-System.
-Machine Learning model to classify news articles as Real or Fake using Natural Language Processing (NLP).
+deep Learning model to classify news articles as Real or Fake using Natural Language Processing (NLP).
 # Fake News Detection System
 
 A deep Learning project built using Python and Natural Language Processing (NLP) technique (TF-IDF) to detect and classify news content as **Real** or **Fake**.
